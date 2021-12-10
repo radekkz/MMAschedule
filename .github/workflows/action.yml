@@ -4,4 +4,4 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      -uses: echo "DUPA"
+      - run: echo "DUPA"
